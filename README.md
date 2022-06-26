@@ -1,7 +1,5 @@
 # DATA-SCIENCE
-This Repository consists of all the projects of Data science Course 
-
-It has 32 Projects Under Data Science & ML
+This Repository consists of all the projects of Data science Course covering Topics
 
 SEQUENCES AND FILE OPERATIONS
 
